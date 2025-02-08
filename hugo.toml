@@ -24,7 +24,7 @@ title = 'HASSCORP'
 
   # Main Menu
   [[menu.Main]]
-  name = "exhibición"
+  name = "Exhibición"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
