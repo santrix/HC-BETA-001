@@ -23,6 +23,15 @@
              <a class="nav-link scroll-to" href="{{ .URL | relURL }}">{{.Name}}</a>
           </li>
           {{end}}
+          <ul class="navbar-nav ml-auto social-icons">  {{/* Agregamos la clase social-icons */}}
+            {{ range .Site.Params.social }}
+              <li class="nav-item">  {{/* Para que se vean como elementos de la navbar */}}
+                <a class="nav-link" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                  <i class="{{ .icon }}"></i>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
         </ul>
       </div>
     </div>
