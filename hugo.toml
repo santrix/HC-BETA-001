@@ -21,14 +21,14 @@ title = 'HASSCORP'
   name = "Noticias"
   url= "#blog"
   weight = 4
-  [[menu.Main]]
-  name = "Precios"
-  url= "#pricing"
-  weight = 5
-  [[menu.Main]]
-  name = "Preguntas"
-  url= "#faq"
-  weight = 6
+ # [[menu.Main]]
+ # name = "Precios"
+ # url= "#pricing"
+ # weight = 5
+ # [[menu.Main]]
+ # name = "Preguntas"
+ # url= "#faq"
+ # weight = 6
   [[menu.Main]]
   name = "Contacto"
   url= "/contact/"
@@ -69,13 +69,13 @@ title = 'HASSCORP'
  # pinImage = "images/pin.png"
 
   # Social icons
-  [[params.social]]
-  icon = "ti-facebook"
-  url = "https://www.facebook.com/santisayago"
-  weight = 1
+ # [[params.social]]
+ # icon = "ti-facebook"
+ # url = "https://www.facebook.com/santisayago"
+ # weight = 1
   [[params.social]]
   icon = "ti-email"
-  url = "santrix@gmail.com"
+  url = "contacto@hasscorp.com"
   weight = 2
   [[params.social]]
   icon = "ti-instagram"
