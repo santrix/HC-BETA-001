@@ -1,7 +1,8 @@
----
-title: "Servicios de Mantenimiento Integral"
-description: "Mantenimiento preventivo y correctivo para instalaciones industriales y comerciales."
----
++++
+title = 'Mantenimiento'
+date = 2025-02-24T13:24:19-03:00
+draft = true
++++
 
 # Mantenimiento Integral
 
@@ -22,4 +23,5 @@ Realizamos revisiones periódicas para evitar averías y prolongar la vida útil
 
 Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.
 
-Para solicitar un presupuesto, contáctanos.
+Para solicitar un presupuesto, contáctanos a...
+

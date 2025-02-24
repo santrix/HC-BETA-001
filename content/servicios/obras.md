@@ -1,9 +1,10 @@
----
-title: "Servicios de Obras y Reformas"
-description: "Diseño, construcción y reformas de espacios comerciales e industriales."
----
++++
+title = 'Obras'
+date = 2025-02-24T13:24:20-03:00
+draft = true
++++
 
-# Obras y Reformas
+# Obras y Reformas ---
 
 Nos encargamos de la planificación y ejecución de proyectos de construcción y reforma:
 

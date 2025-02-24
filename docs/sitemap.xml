@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://santrix.github.io/HC-BETA-001/terms/</loc>
-    <lastmod>2022-01-08T12:52:02+06:00</lastmod>
-  </url><url>
     <loc>https://santrix.github.io/HC-BETA-001/</loc>
+    <lastmod>2025-02-24T13:24:20-03:00</lastmod>
+  </url><url>
+    <loc>https://santrix.github.io/HC-BETA-001/servicios/</loc>
+    <lastmod>2025-02-24T13:24:20-03:00</lastmod>
+  </url><url>
+    <loc>https://santrix.github.io/HC-BETA-001/terms/</loc>
     <lastmod>2022-01-08T12:52:02+06:00</lastmod>
   </url><url>
     <loc>https://santrix.github.io/HC-BETA-001/privacy/</loc>
@@ -48,13 +51,5 @@
     <lastmod>2022-01-06T11:15:47+06:00</lastmod>
   </url><url>
     <loc>https://santrix.github.io/HC-BETA-001/categories/</loc>
-  </url><url>
-    <loc>https://santrix.github.io/HC-BETA-001/servicios/</loc>
-  </url><url>
-    <loc>https://santrix.github.io/HC-BETA-001/servicios/limpieza/</loc>
-  </url><url>
-    <loc>https://santrix.github.io/HC-BETA-001/servicios/mantenimiento/</loc>
-  </url><url>
-    <loc>https://santrix.github.io/HC-BETA-001/servicios/obras/</loc>
   </url>
 </urlset>

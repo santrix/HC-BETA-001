@@ -9,16 +9,16 @@ services:
     description: >
                 Electricidad, Grupos electrogenos, refrigeracion en general
     icons: ["ti-settings", "ti-bolt", "ti-plug"]
-    url: "content/servicios/mantenimiento.md" 
+    url: "servicios/mantenimiento" 
   - name: "Limpieza"
     description: >
                 Pretendemos ser “partners” de nuestros clientes, implicándonos en la explotación de los servicios de sus edificios. 
                 Contamos con un equipo propio y socios estratégicos poder operar en los denominados servicios duros y blandos.
     icons: ["ti-brush-alt", "ti-spray", "ti-trash"]
-    url: "content/servicios/limpieza.md"
+    url: "servicios/limpieza"
   - name: "Obras"
     description: >
                 Planificación de nuevos espacios. Concebimos el diseño, la construcción y la puesta en funcionamiento de nuestros proyectos en su conjunto. 
                 Garantía de un alto nivel de calidad y cumplimiento de los plazos y precios acordados.
     icons: ["ti-ruler-pencil", "ti-harddrives", "ti-palette"]
-    url: "content/servicios/obras.md"
+    url: "servicios/obras"
