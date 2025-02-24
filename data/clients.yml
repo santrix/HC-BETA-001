@@ -2,10 +2,15 @@
 enable: true
 title: "Featured In"
 clients:
-  - image: "images/client/clients01.png"
-  - image: "images/client/clients02.png"
-  - image: "images/client/clients03.png"
-  - image: "images/client/clients01.png"
-  - image: "images/client/clients03.png"
-  - image: "images/client/clients02.png"
+  - image: "images/client/clients01.jpg"
+  - image: "images/client/clients02.jpg"
+  - image: "images/client/clients03.jpg"
+  - image: "images/client/clients04.png"
+  - image: "images/client/clients05.png"
+  - image: "images/client/clients06.png"
+  - image: "images/client/clients07.png"
+  - image: "images/client/clients08.png"
+  - image: "images/client/clients09.jpg"
+  - image: "images/client/clients10.png"
+  - image: "images/client/clients11.png"
 ---
