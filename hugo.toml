@@ -6,12 +6,12 @@ title = 'HASSCORP'
  
   # Main Menu
   [[menu.Main]]
-  name = "Exhibición"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
   name = "Servicios"
   url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "Exhibición"
+  url= "#gallery"
   weight = 2
   [[menu.Main]]
   name = "Sobre Nosotros"
