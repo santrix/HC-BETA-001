@@ -1,38 +1,23 @@
 ---
 enable: true
-title: "Why Choose us?"
+title: "Soluciones Integrales para tu Espacio"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          Nos encargamos de todo para que tu empresa
+          se enfoque en lo que mejor sabe hacer.
 services:
-  - name: "largest Network"
+  - name: "Mantenimiento"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+                Electricidad, Grupos electrogenos, refrigeracion en general
+    icon: "ti-settings"
+  - name: "Limpieza"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+                Pretendemos ser “partners” de nuestros clientes, implicándonos en la explotación de los servicios de sus edificios. 
+                Contamos con un equipo propio y socios estratégicos poder operar en los denominados servicios duros y blandos.
+    icon: "ti-brush-alt"
+  - name: "Obras"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
+                Planificación de nuevos espacios. Concebimos el diseño, la construcción y la puesta en funcionamiento de nuestros proyectos en su conjunto. 
+                Garantía de un alto nivel de calidad y cumplimiento de los plazos y precios acordados.
+    icon: "ti-ruler-pencil"
+#    icon: "ti-pencil"
 ---
