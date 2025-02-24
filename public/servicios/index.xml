@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servicios on HASSCORP</title>
+    <link>http://localhost:1313/HC-BETA-001/servicios/</link>
+    <description>Recent content in Servicios on HASSCORP</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/HC-BETA-001/servicios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Servicios de Limpieza Profesional</title>
+      <link>http://localhost:1313/HC-BETA-001/servicios/limpieza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HC-BETA-001/servicios/limpieza/</guid>
+      <description>Servicios de Limpieza Ofrecemos una amplia gama de servicios de limpieza para satisfacer tus necesidades:&#xA;Limpieza de oficinas Limpieza de hogares Limpieza de vidrios Limpieza de alfombras Para más información, contáctanos.</description>
+    </item>
+    <item>
+      <title>Servicios de Mantenimiento Integral</title>
+      <link>http://localhost:1313/HC-BETA-001/servicios/mantenimiento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HC-BETA-001/servicios/mantenimiento/</guid>
+      <description>Mantenimiento Integral Ofrecemos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:&#xA;Mantenimiento eléctrico Mantenimiento de sistemas de climatización Mantenimiento de grupos electrógenos Mantenimiento de sistemas de seguridad Contamos con un equipo de técnicos especializados para atender todas tus necesidades.&#xA;Mantenimiento Preventivo Realizamos revisiones periódicas para evitar averías y prolongar la vida útil de tus equipos.&#xA;Mantenimiento Correctivo Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.</description>
+    </item>
+    <item>
+      <title>Servicios de Obras y Reformas</title>
+      <link>http://localhost:1313/HC-BETA-001/servicios/obras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HC-BETA-001/servicios/obras/</guid>
+      <description>Obras y Reformas Nos encargamos de la planificación y ejecución de proyectos de construcción y reforma:&#xA;Diseño de espacios comerciales y oficinas Construcción de nuevas instalaciones Reformas integrales Gestión de proyectos Trabajamos con materiales de alta calidad y cumplimos con los plazos acordados.&#xA;Diseño de Espacios Creamos espacios funcionales y estéticos que se adaptan a las necesidades de tu negocio.&#xA;Gestión de Proyectos Coordinamos todas las etapas del proyecto para garantizar un resultado exitoso.</description>
+    </item>
+  </channel>
+</rss>

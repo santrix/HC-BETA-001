@@ -13,17 +13,13 @@
       </div>
       {{ range .services}}
       <div class="col-lg-4 col-md-6">
-        <a href="{{ .url }}">  
-          <div class="service-item"> 
-            {{ range .icons }}
-            <i class="{{ . }}" aria-hidden="true"></i>
-            {{ end }}
-            <h3>{{ .name }}</h3>
-            <p>
-                {{.description }}
-            </p>
-          </div> 
-        </a>
+        <div class="service-item">
+          <i class="{{ .icon }}" aria-hidden="true"></i>
+          <h3>{{ .name }}</h3>
+          <p>
+              {{.description }}
+          </p>
+        </div>
       </div>
       {{end}}
     </div>
