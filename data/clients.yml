@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Featured In"
+title: "Nuestros Clientes"
 clients:
   - image: "images/client/clients01.jpg"
   - image: "images/client/clients02.jpg"
