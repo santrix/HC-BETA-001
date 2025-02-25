@@ -1,8 +1,8 @@
-+++
-title = 'Obras'
-date = 2025-02-24T13:24:20-03:00
-draft = true
-+++
+---
+title: 'Obras'
+date: 2025-02-24T13:24:20-03:00
+draft: false
+---
 
 # Obras y Reformas ---
 

@@ -1,8 +1,8 @@
-+++
-title = 'Limpieza'
-date = 2025-02-24T13:24:19-03:00
-draft = true
-+++
+---
+title: 'Limpieza'
+date: 2025-02-24T13:24:19-03:00
+draft: false
+---
 
 # Servicios de Limpieza
 

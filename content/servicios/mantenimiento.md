@@ -1,12 +1,12 @@
-+++
-title = 'Mantenimiento'
-date = 2025-02-24T13:24:19-03:00
-draft = true
-+++
+---
+title: 'Mantenimiento'
+date: 2025-02-24T13:24:20-03:00
+draft: false
+---
 
 # Mantenimiento Integral
 
-Ofrecemos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:
+Damos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:
 
 * Mantenimiento eléctrico
 * Mantenimiento de sistemas de climatización
@@ -23,5 +23,5 @@ Realizamos revisiones periódicas para evitar averías y prolongar la vida útil
 
 Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.
 
-Para solicitar un presupuesto, contáctanos a...
+Para solicitar un presupuesto, contáctanos a.
 
