@@ -8,17 +8,18 @@ services:
   - name: "Servicios"
     description: >
                 Aumenta la vida útil de tus instalaciones y reduce costos con nuestros servicios de Facility Management.
-                Nos encargamos del mantenimiento preventivo y correctivo, la seguridad y mucho más.
-    icons: ["ti-bar-chart", "ti-harddrives", "ti-clipboard"]
+                Con un correcto gerenciamiento nos encargamos del mantenimiento preventivo y correctivo, la seguridad y mucho más.
+    icons: ["ti-pencil-alt", "ti-bar-chart", "ti-clipboard"]
     url: "servicios/serviciosdetalles"
   - name: "Mantenimiento"
     description: >
-                Electricidad, Grupos electrogenos, refrigeracion en general
+                Soluciones de mantenimiento a medida para tus necesidades. Nos ocupamos de electricidad, grupos electrógenos y refrigeración,
+                 asegurando el máximo rendimiento y la seguridad de tus instalaciones.
     icons: ["ti-settings", "ti-bolt", "ti-plug"]
     url: "servicios/mantenimiento" 
   - name: "Limpieza"
     description: >
-                Pretendemos ser “partners” de nuestros clientes, implicándonos en la explotación de los servicios de sus edificios. 
-                Contamos con un equipo propio y socios estratégicos poder operar en los denominados servicios duros y blandos.
+                Nos ocupamos de la limpieza de tus instalaciones con eficiencia y profesionalismo. 
+                Proveemos servicios personalizados, enfocados en la higiene y el orden, para que tu empresa refleje excelencia.
     icons: ["ti-brush-alt", "ti-spray", "ti-trash"]
     url: "servicios/limpieza"

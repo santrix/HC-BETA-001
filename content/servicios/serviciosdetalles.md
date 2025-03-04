@@ -19,6 +19,19 @@ Los servicios de Consultoría en FM que ofrecemos para la máxima eficiencia té
 *   Estudios de viabilidad
 *   Diseño y recopilación Libro del Edificio
 
+### Planificación y gestión de espacio
+*   Planificación lay-out o distribución de espacio
+*   Determinación de requerimientos y cuantificación de espacio
+*   Coordinación mudanzas
+*   Simulacros de evacuación
+
+### Audiotorías.
+
+*   Auditoría del estado de edificios
+*   Auditoría del nivel de calidad de servicio
+*   Auditoría energética
+*   Auditoría económica de gastos de explotación
+
 
 ---
 

@@ -1,6 +1,6 @@
 {{ with .Site.Data.cta }}
   {{ if .enable }}
-    <a href="{{ .buttonTarget | absURL }}" class="btn btn-primary mb-3">
+    <a href="{{ .buttonTarget | absURL }}" class="btn btn-primary mb-3" style="float: right;">
       {{ .buttonText | default "Contactanos..." }}
     </a>
   {{ end }}
