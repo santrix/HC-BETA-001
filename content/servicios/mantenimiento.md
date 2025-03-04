@@ -4,7 +4,7 @@ date: 2025-02-24T13:24:20-03:00
 draft: false
 ---
 
-# Mantenimiento Integral
+# Mantenimiento Integral ---
 
 Damos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:
 
@@ -24,4 +24,6 @@ Realizamos revisiones periódicas para evitar averías y prolongar la vida útil
 Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.
 
 Para solicitar un presupuesto, contáctanos a.
+
+{{< boton-cto >}}
 

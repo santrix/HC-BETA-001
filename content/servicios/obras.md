@@ -2,6 +2,7 @@
 title: 'Obras'
 date: 2025-02-24T13:24:20-03:00
 draft: false
+buttonTarget: contact
 ---
 
 # Obras y Reformas ---
@@ -24,3 +25,5 @@ Creamos espacios funcionales y estéticos que se adaptan a las necesidades de tu
 Coordinamos todas las etapas del proyecto para garantizar un resultado exitoso.
 
 Para más información, contáctanos.
+
+{{< boton-cto >}}
