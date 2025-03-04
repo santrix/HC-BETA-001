@@ -46,32 +46,33 @@ title = 'HASSCORP'
   weight = 2
 
 [params]
-  # theme_overrides = "css/overrides.css"
+ # theme_overrides = "css/overrides.css"
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
-  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  copyright = "© {year} <a href=\"https://www.linkedin.com/in/santiago-sayago-a553a63a/\" target=\"_blank\">Santiago Sayago</a>"
+  fabFormURL =  ""
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
   footerDescription = "Hasscorp una empresa de FM"
 
-#  [params.address]
-#  address = "115 W 18th St. <br>  New York, NY 10011"
-#  email = "hello@example.com"
-#  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
-#  openingHours = "We are open from 7am — 7pm week days."
-#  phone = "+(448) 833 5272 332"
+  [params.address]
+  address = "Simbrón 5707 <br>  CABA, BsAs, Argentina"
+  email = "contacto@hasscorp.com"
+  openingDesc = "Puede llamarnos o visitarnos en cualquier momento. Nos comprometemos a responder a todas las consultas en un plazo de 24 horas durante los días laborables."
+  openingHours = "Abrimos de 9 a 18"
+  phone = "+54 11 3352 6294"
 
- # [params.map]
- # APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
- # latitude = "45.4502528"
- # longitude = "-122.783407"
- # pinImage = "images/pin.png"
+  [params.map]
+  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  latitude = "-34.61984067729137"
+  longitude = "-58.52602237095671"
+  pinImage = "images/pin.png"
 
   # Social icons
   [[params.social]]
-  icon = "ti-comments"
+  name = "WhatsApp"
+  icon = "ti-mobile"
   url = "https://wa.me/541133526294"
   weight = 1
   [[params.social]]
