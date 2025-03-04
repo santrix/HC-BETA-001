@@ -4,7 +4,7 @@ date: 2025-02-24T13:24:20-03:00
 draft: false
 ---
 
-# Mantenimiento Integral ---
+## Mantenimiento Integral
 
 Damos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:
 
@@ -15,11 +15,11 @@ Damos servicios de mantenimiento para garantizar el óptimo funcionamiento de tu
 
 Contamos con un equipo de técnicos especializados para atender todas tus necesidades.
 
-## Mantenimiento Preventivo
+### Mantenimiento Preventivo
 
 Realizamos revisiones periódicas para evitar averías y prolongar la vida útil de tus equipos.
 
-## Mantenimiento Correctivo
+### Mantenimiento Correctivo
 
 Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.
 
