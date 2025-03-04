@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Visit coHub for a day."
+title: "Coordinemos una reunión"
 buttonTarget: contact
-priceLink: "#priceLink"
+backgroundImage: images/contactar.jpg
 ---

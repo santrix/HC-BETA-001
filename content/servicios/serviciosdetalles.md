@@ -25,7 +25,7 @@ Los servicios de Consultoría en FM que ofrecemos para la máxima eficiencia té
 *   Coordinación mudanzas
 *   Simulacros de evacuación
 
-### Audiotorías.
+### Auditorías.
 
 *   Auditoría del estado de edificios
 *   Auditoría del nivel de calidad de servicio

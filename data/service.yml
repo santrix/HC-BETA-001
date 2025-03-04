@@ -9,7 +9,7 @@ services:
     description: >
                 Aumenta la vida útil de tus instalaciones y reduce costos con nuestros servicios de Facility Management.
                 Con un correcto gerenciamiento nos encargamos del mantenimiento preventivo y correctivo, la seguridad y mucho más.
-    icons: ["ti-pencil-alt", "ti-bar-chart", "ti-clipboard"]
+    icons: ["ti-bar-chart", "ti-pencil", "ti-clipboard"]
     url: "servicios/serviciosdetalles"
   - name: "Mantenimiento"
     description: >
