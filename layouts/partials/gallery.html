@@ -12,7 +12,6 @@
         </div>
       </div>
     </div>
-
     <div class="row">
       {{ range .galleryImage }}
         <div class="col-md-6">
@@ -25,6 +24,7 @@
         </div>
       {{ end }}
     </div>
+    <a class="more" href="{{ .Permalink }}">Más Imagenes <span>⟶</span></a>
   </div>
 </section>
 {{ end }}

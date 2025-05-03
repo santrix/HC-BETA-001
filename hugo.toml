@@ -13,10 +13,10 @@ title = 'HASSCORP'
   name = "Exhibición"
   url= "#gallery"
   weight = 2
-  [[menu.Main]]
-  name = "Noticias"
-  url= "#blog"
-  weight = 3
+ # [[menu.Main]]
+ # name = "Noticias"
+ # url= "#blog"
+ # weight = 3
  # [[menu.Main]]
  # name = "Precios"
  # url= "#pricing"
@@ -49,7 +49,7 @@ title = 'HASSCORP'
  # theme_overrides = "css/overrides.css"
   aboutPageURL = "blog"
   contactLink = "contact"
-  copyright = "© {year} <a href=\"https://www.linkedin.com/in/santiago-sayago-a553a63a/\" target=\"_blank\">Santiago Sayago</a>"
+  copyright = "© {year} <a href=\"https://www.linkedin.com/in/santiago-sayago-a553a63a/\" target=\"_blank\">Web Desing</a>"
   fabFormURL =  ""
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
