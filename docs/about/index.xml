@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre Nosotros... on HASSCORP</title>
-    <link>https://www.hasscorp.com/about/</link>
+    <link>https://hasscorp.com/about/</link>
     <description>Recent content in Sobre Nosotros... on HASSCORP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://www.hasscorp.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hasscorp.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
