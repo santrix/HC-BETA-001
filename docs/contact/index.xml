@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contactanos. on HASSCORP</title>
-    <link>https://hasscorp.com/contact/</link>
+    <link>https://hasscorp.netlify.com/contact/</link>
     <description>Recent content in Contactanos. on HASSCORP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hasscorp.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hasscorp.netlify.com/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

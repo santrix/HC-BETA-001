@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HASSCORP, Todos los derechos reservados. on HASSCORP</title>
-    <link>https://hasscorp.com/terms/</link>
+    <link>https://hasscorp.netlify.com/terms/</link>
     <description>Recent content in HASSCORP, Todos los derechos reservados. on HASSCORP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hasscorp.com/terms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hasscorp.netlify.com/terms/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
