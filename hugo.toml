@@ -2,7 +2,7 @@ baseURL = 'https://hasscorp.netlify.app'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
-title = 'HASSCORP'
+title = 'HASSCORP - All in FM'
  
   # Main Menu
   [[menu.Main]]
