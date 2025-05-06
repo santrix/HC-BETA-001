@@ -1,4 +1,4 @@
-baseURL = 'https://hasscorp.netlify.app'
+baseURL = 'https://www.hasscorp.com'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
