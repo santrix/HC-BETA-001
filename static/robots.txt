@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://santrix.github.io/HC-BETA-001/sitemap.xml
+Sitemap: https://www.hasscorp.com/sitemap.xml

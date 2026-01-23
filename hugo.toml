@@ -1,4 +1,4 @@
-baseURL = 'https://santrix.github.io/HC-BETA-001/'
+baseURL = 'https://www.hasscorp.com/'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
