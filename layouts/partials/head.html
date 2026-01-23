@@ -2,8 +2,14 @@
     <meta charset="utf-8" />
     <title>{{.Title}}</title>
 
-    {{ "<!--Meta For No Index-->" | safeHTML }}
-    <meta name="robots" content="noindex, Nofollow, Noimageindex">
+    {{ "<!-- SEO -->" | safeHTML }}
+    <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.footerDescription }}{{ else }}{{ .Description | default .Summary | default .Site.Params.footerDescription }}{{ end }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.footerDescription }}{{ else }}{{ .Description | default .Summary | default .Site.Params.footerDescription }}{{ end }}" />
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:image" content="{{ .Site.Params.logo | absURL }}" />
 
     {{ "<!--mobile responsive meta-->" | safeHTML }}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
