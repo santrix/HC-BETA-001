@@ -1,49 +1,47 @@
-  <head>
-    <meta charset="utf-8" />
-    <title>{{.Title}}</title>
+<head>
+  <meta charset="utf-8" />
+  <title>{{.Title}}</title>
 
-    {{ "<!-- SEO -->" | safeHTML }}
-    <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.footerDescription }}{{ else }}{{ .Description | default .Summary | default .Site.Params.footerDescription }}{{ end }}" />
-    <link rel="canonical" href="{{ .Permalink }}" />
-    <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.footerDescription }}{{ else }}{{ .Description | default .Summary | default .Site.Params.footerDescription }}{{ end }}" />
-    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:image" content="{{ .Site.Params.logo | absURL }}" />
+  {{ "<!-- SEO -->" | safeHTML }}
+  <meta name="description"
+    content="{{ if .IsHome }}{{ .Site.Params.footerDescription }}{{ else }}{{ .Description | default .Summary | default .Site.Params.footerDescription }}{{ end }}" />
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description"
+    content="{{ if .IsHome }}{{ .Site.Params.footerDescription }}{{ else }}{{ .Description | default .Summary | default .Site.Params.footerDescription }}{{ end }}" />
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ .Site.Params.logo | absURL }}" />
 
-    {{ "<!--mobile responsive meta-->" | safeHTML }}
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1"
-    />
-    {{hugo.Generator}}
-    {{ "<!-- Critical CSS -->" | safeHTML }}
-    {{$style :=  resources.Get "scss/critical.scss" | resources.ToCSS | resources.Minify }}
-    <link href="{{ $style.Permalink }}" rel="stylesheet" />
+  {{ "<!--mobile responsive meta-->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  {{hugo.Generator}}
+  {{ "<!-- Critical CSS -->" | safeHTML }}
+  {{$style := resources.Get "scss/critical.scss" | css.Sass | resources.Minify }}
+  <link href="{{ $style.Permalink }}" rel="stylesheet" />
 
-    {{ with .Site.Params.theme_overrides }}
-    {{ $theme_overrides := resources.Get . | minify | fingerprint "sha512" }}
-    <link rel="stylesheet" href="{{ $theme_overrides.RelPermalink }}" integrity="{{ $theme_overrides.Data.Integrity }}">
-    {{ end }}
+  {{ with .Site.Params.theme_overrides }}
+  {{ $theme_overrides := resources.Get . | minify | fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $theme_overrides.RelPermalink }}" integrity="{{ $theme_overrides.Data.Integrity }}">
+  {{ end }}
 
-    {{"<!-- Favicon -->" | safeHTML}}
-    <link rel="shortcut icon" href="{{"images/favicon.ico" | absURL}}" type="image/x-icon" />
-    <link rel="icon" href="{{"images/favicon.png" | absURL}}" type="image/x-icon" />
+  {{"<!-- Favicon -->" | safeHTML}}
+  <link rel="shortcut icon" href="{{" images/favicon.ico" | absURL}}" type="image/x-icon" />
+  <link rel="icon" href="{{" images/favicon.png" | absURL}}" type="image/x-icon" />
 
-    {{ with .Site.Params.googleAnalytics }}
-    {{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', '{{ . }}');
-      
-    </script>
-    {{ end }}
+  {{ with .Site.Params.googleAnalytics }}
+  {{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    
-  </head>
+    gtag('config', '{{ . }}');
 
+  </script>
+  {{ end }}
+
+
+</head>

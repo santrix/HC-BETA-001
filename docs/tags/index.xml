@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on HASSCORP - All in FM</title>
-    <link>https://santrix.github.io/HC-BETA-001/tags/</link>
-    <description>Recent content in Tags on HASSCORP - All in FM</description>
+    <title>Tags on </title>
+    <link>https://www.hasscorp.com/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jan 2022 11:18:56 +0600</lastBuildDate>
-    <atom:link href="https://santrix.github.io/HC-BETA-001/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.hasscorp.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing</title>
-      <link>https://santrix.github.io/HC-BETA-001/tags/marketing/</link>
+      <link>https://www.hasscorp.com/tags/marketing/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
-      <guid>https://santrix.github.io/HC-BETA-001/tags/marketing/</guid>
+      <guid>https://www.hasscorp.com/tags/marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://santrix.github.io/HC-BETA-001/tags/news/</link>
+      <link>https://www.hasscorp.com/tags/news/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:56 +0600</pubDate>
-      <guid>https://santrix.github.io/HC-BETA-001/tags/news/</guid>
+      <guid>https://www.hasscorp.com/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Design</title>
-      <link>https://santrix.github.io/HC-BETA-001/tags/web-design/</link>
+      <link>https://www.hasscorp.com/tags/web-design/</link>
       <pubDate>Thu, 06 Jan 2022 11:18:32 +0600</pubDate>
-      <guid>https://santrix.github.io/HC-BETA-001/tags/web-design/</guid>
+      <guid>https://www.hasscorp.com/tags/web-design/</guid>
       <description></description>
     </item>
   </channel>

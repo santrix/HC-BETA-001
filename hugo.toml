@@ -1,6 +1,7 @@
 baseURL = 'https://www.hasscorp.com/'
 languageCode = 'en-us'
-paginate = 6
+[pagination]
+  pagerSize = 6
 theme= "coHub"
 title = 'HASSCORP - All in FM'
  
