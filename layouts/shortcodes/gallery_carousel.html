@@ -1,0 +1,13 @@
+{{ $dir := "static/images/gallery" }}
+<div class="gallery-carousel gallery">
+    {{ range (readDir $dir) }}
+    {{ $ext := path.Ext .Name | lower }}
+    {{ if and (not .IsDir) (hasPrefix .Name "IMG_") (or (eq $ext ".jpg") (eq $ext ".jpeg") (eq $ext ".png")) }}
+    <div class="gallery-item">
+        <a href="/images/gallery/{{ .Name }}" title="{{ .Name }}">
+            <img src="/images/gallery/{{ .Name }}" alt="{{ .Name }}" class="img-fluid">
+        </a>
+    </div>
+    {{ end }}
+    {{ end }}
+</div>
