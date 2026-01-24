@@ -27,8 +27,8 @@
   {{ end }}
 
   {{"<!-- Favicon -->" | safeHTML}}
-  <link rel="shortcut icon" href="{{" images/favicon.ico" | absURL}}" type="image/x-icon" />
-  <link rel="icon" href="{{" images/favicon.png" | absURL}}" type="image/x-icon" />
+  <link rel="shortcut icon" href="{{"images/favicon.ico" | relURL}}" type="image/x-icon" />
+  <link rel="icon" href="{{"images/favicon.png" | relURL}}" type="image/x-icon" />
 
   {{ with .Site.Params.googleAnalytics }}
   {{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
