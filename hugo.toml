@@ -76,6 +76,11 @@ title = 'HASSCORP - All in FM'
   icon = "ti-mobile"
   url = "https://wa.me/541133526294"
   weight = 1
+  [[params.social]]
+  name = "Email"
+  icon = "ti-email"
+  url = "mailto:contacto@hasscorp.com"
+  weight = 2
 
   [[params.social]]
   icon = "ti-instagram"
