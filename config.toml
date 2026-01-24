@@ -64,6 +64,9 @@ title = 'coHub'
   openingHours = "We are open from 7am — 7pm week days."
   phone = "+(448) 833 5272 332"
 
+  [params.sass]
+  sassFile = "scss/style.scss"
+
   [params.map]
   APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
   latitude = "45.4502528"
