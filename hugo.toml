@@ -50,7 +50,8 @@ title = 'HASSCORP - All in FM'
   aboutPageURL = "blog"
   contactLink = "contact"
   copyright = "© {year} <a href=\"https://www.linkedin.com/in/santiago-sayago-a553a63a/\" target=\"_blank\">Web Desing</a>"
-  fabFormURL =  ""
+  # fabFormURL DEPRECATED - Usamos Google Forms iframe ahora
+  googleFormURL =  "https://docs.google.com/forms/d/e/1FAIpQLSdV2mCNWmEhZFH-BXpRtDpMOxu_s-KW6UQqazSF9sN-604G4A/viewform?embedded=true"
   googleAnalytics = "G-JZ95FEWF9K"
   logo = "images/logo.png"
   footerlogo = "images/logo.png"
