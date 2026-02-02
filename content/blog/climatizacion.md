@@ -1,9 +1,9 @@
 ---
 title: "Trabajos de Climatizacion"
-date: 2024-02-02T10:00:00-03:00
+date: 2026-02-02T10:00:00-03:00
 draft: false
-featureImage: "images/evento-2024/portada.jpg"
+featureImage: "images/Climatizacion/portada.png"
 ---
-Aquí cuentas la historia de estas fotos...
+Nuestros trabajos de climatización
 {{< gallery_carousel path="images/Climatizacion" >}}
 
