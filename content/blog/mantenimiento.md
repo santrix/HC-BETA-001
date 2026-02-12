@@ -1,8 +1,8 @@
 ---
-title: "Trabajos de Mantenimiento"
+title: "Trabajos en mantenimiento"
 date: 2026-02-12T10:00:00-03:00
 draft: false
-featureImage: "images/manteniminto/portada.png"
+featureImage: "images/mantenimiento/portada.png"
 ---
-#Nuestros trabajos en mantenimiento
-{{< gallery_carousel path="images/mantenimiento" >}}
+Nuestros trabajos en mantenimiento
+{{< gallery_carousel path="images/manteniimiento" >}}
