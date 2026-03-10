@@ -16,7 +16,7 @@ title = 'HASSCORP - All in FM'
   weight = 2
   [[menu.Main]]
   name = "Noticias"
-  url= "#blog"
+  url= "blog"
   weight = 3
  # [[menu.Main]]
  # name = "Precios"
