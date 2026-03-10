@@ -1,5 +1,5 @@
 ---
-title: "Trabajos en mantenimiiento"
+title: "Trabajos en mantenimiento"
 date: 2026-02-12T10:00:00-03:00
 draft: false
 featureImage: "images/portadas/portada6.png"
