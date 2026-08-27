@@ -59,7 +59,7 @@ title = 'HASSCORP - All in FM'
   footerDescription = "Hasscorp una empresa de FM"
 
   [params.address]
-  address = "Simbrón 5707 <br>  CABA, BsAs, Argentina"
+  address = "Patrón 6743 <br>  CABA, BsAs, Argentina"
   email = "contacto@hasscorp.com"
   openingDesc = "Puede llamarnos o visitarnos en cualquier momento. Nos comprometemos a responder a todas las consultas en un plazo de 24 horas durante los días laborables."
   openingHours = "Abrimos de 9 a 18"
