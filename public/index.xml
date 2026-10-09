@@ -1,82 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on </description>
-    <generator>Hugo</generator>
-    <language>es-ar</language>
-    <lastBuildDate>Thu, 12 Feb 2026 10:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Trabajos en Electricidad</title>
-      <link>http://localhost:1313/blog/electricidad/</link>
-      <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/electricidad/</guid>
-      <description>&lt;p&gt;Hasscorp ejecuta instalaciones eléctricas y trabajos de iluminación para espacios comerciales, oficinas y edificios en toda la Ciudad Autónoma de Buenos Aires. Desde la renovación de tableros eléctricos hasta la implementación de sistemas de iluminación LED de bajo consumo, nuestros técnicos matriculados garantizan trabajos seguros y conformes a la normativa vigente.&lt;/p&gt;&#xA;&lt;p&gt;Entre los trabajos más frecuentes se encuentran: reemplazo y ampliación de tableros, instalación de circuitos independientes para equipos industriales, adecuación de bocas y cableado para modernización de espacios, y relevamientos eléctricos preventivos para detectar fallas antes de que se conviertan en un problema mayor.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajos en Limpieza y Remodelación</title>
-      <link>http://localhost:1313/blog/remodelacion/</link>
-      <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/remodelacion/</guid>
-      <description>&lt;p&gt;La imagen de un espacio de trabajo refleja la identidad de tu empresa. En Hasscorp ofrecemos servicios de limpieza profesional, pintura y remodelación de interiores pensados para mantener y renovar oficinas, locales y edificios corporativos con el mínimo impacto en la operación diaria.&lt;/p&gt;&#xA;&lt;p&gt;Desde limpiezas periódicas y post-construcción, hasta transformaciones completas de espacios: pintura de paredes y cielorrasos, reacondicionamiento de pisos, mejoras edilicias y renovación general de ambientes. Todos nuestros trabajos de remodelación incluyen una etapa de relevamiento y diagnóstico previo para asegurar que el resultado final sea exactamente lo que el cliente necesita.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajos en Mantenimiento</title>
-      <link>http://localhost:1313/blog/mantenimiento-12-02-26/</link>
-      <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/mantenimiento-12-02-26/</guid>
-      <description>&lt;p&gt;El mantenimiento preventivo es la inversión que evita gastos inesperados. En Hasscorp desarrollamos planes de mantenimiento edilicio a medida que contemplan la revisión periódica de fachadas, sistemas de bombeo, instalaciones generales y equipos de la instalación.&lt;/p&gt;&#xA;&lt;p&gt;Documentamos cada intervención y generamos informes de estado para que el administrador o responsable del edificio tenga siempre visibilidad sobre el estado real de sus instalaciones. El resultado: menos fallas imprevistas, mayor vida útil de los equipos y una operación más eficiente y económica.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajos en Plomería</title>
-      <link>http://localhost:1313/blog/plomeria/</link>
-      <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/plomeria/</guid>
-      <description>&lt;p&gt;Los problemas de plomería en edificios y oficinas pueden escalar rápidamente si no se atienden a tiempo. En Hasscorp contamos con técnicos especializados en diagnóstico y resolución de filtraciones, humedad en paredes y techos, roturas de cañerías y problemas en tanques de agua y bombas.&lt;/p&gt;&#xA;&lt;p&gt;Trabajamos con materiales de primera calidad y aplicamos soluciones definitivas, no parches temporales. Nuestro servicio de mantenimiento preventivo de instalaciones hidráulicas permite detectar problemas antes de que generen daños estructurales o interrupciones en la operación de tu empresa.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajos en Prevención</title>
-      <link>http://localhost:1313/blog/prevencion/</link>
-      <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/prevencion/</guid>
-      <description>&lt;p&gt;La prevención es uno de los pilares del Facility Management. En Hasscorp gestionamos dos servicios clave para mantener tu espacio seguro y en regla: el control de plagas y el mantenimiento de sistemas contra incendio.&lt;/p&gt;&#xA;&lt;p&gt;El &lt;strong&gt;control de plagas&lt;/strong&gt; se realiza con productos certificados, aplicados por personal capacitado y habilitado, con mínima interrupción de la operación normal de tu empresa. El &lt;strong&gt;mantenimiento de matafuegos&lt;/strong&gt; incluye recarga, prueba hidráulica y reemplazo según las normativas del GCBA y la legislación vigente, garantizando que tu empresa esté preparada ante cualquier emergencia y evitando sanciones en inspecciones.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajos de Climatización</title>
-      <link>http://localhost:1313/blog/climatizacion/</link>
-      <pubDate>Mon, 02 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/blog/climatizacion/</guid>
-      <description>&lt;p&gt;Nuestro equipo de técnicos especializados llevó a cabo trabajos de climatización para mantener el confort y la eficiencia energética de las instalaciones. Realizamos instalación, puesta en marcha y mantenimiento preventivo de sistemas de aire acondicionado y calderas.&lt;/p&gt;&#xA;&lt;p&gt;Cada intervención contempla la revisión del estado general del equipo, limpieza de filtros, control de refrigerante, verificación de circuitos eléctricos y ajuste de parámetros para garantizar el máximo rendimiento. Un sistema de climatización en óptimas condiciones no solo mejora el bienestar de los ocupantes, sino que también reduce el consumo energético hasta un 30%.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mantenimiento</title>
-      <link>http://localhost:1313/servicios/mantenimiento/</link>
-      <pubDate>Mon, 24 Feb 2025 13:24:20 -0300</pubDate>
-      <guid>http://localhost:1313/servicios/mantenimiento/</guid>
-      <description>&lt;h2 id=&#34;mantenimiento-integral&#34;&gt;Mantenimiento Integral&lt;/h2&gt;&#xA;&lt;p&gt;Damos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mantenimiento eléctrico&lt;/li&gt;&#xA;&lt;li&gt;Mantenimiento de sistemas de climatización&lt;/li&gt;&#xA;&lt;li&gt;Mantenimiento de grupos electrógenos&lt;/li&gt;&#xA;&lt;li&gt;Mantenimiento de sistemas de seguridad&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Contamos con un equipo de técnicos especializados para atender todas tus necesidades.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mantenimiento-preventivo&#34;&gt;Mantenimiento Preventivo&lt;/h3&gt;&#xA;&lt;p&gt;Realizamos revisiones periódicas para evitar averías y prolongar la vida útil de tus equipos.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mantenimiento-correctivo&#34;&gt;Mantenimiento Correctivo&lt;/h3&gt;&#xA;&lt;p&gt;Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Obras</title>
-      <link>http://localhost:1313/servicios/obras/</link>
-      <pubDate>Mon, 24 Feb 2025 13:24:20 -0300</pubDate>
-      <guid>http://localhost:1313/servicios/obras/</guid>
-      <description>&lt;h1 id=&#34;obras-y-reformas-&#34;&gt;Obras y Reformas &amp;mdash;&lt;/h1&gt;&#xA;&lt;p&gt;Nos encargamos de la planificación y ejecución de proyectos de construcción y reforma:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Diseño de espacios comerciales y oficinas&lt;/li&gt;&#xA;&lt;li&gt;Construcción de nuevas instalaciones&lt;/li&gt;&#xA;&lt;li&gt;Reformas integrales&lt;/li&gt;&#xA;&lt;li&gt;Gestión de proyectos&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Trabajamos con materiales de alta calidad y cumplimos con los plazos acordados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;diseño-de-espacios&#34;&gt;Diseño de Espacios&lt;/h2&gt;&#xA;&lt;p&gt;Creamos espacios funcionales y estéticos que se adaptan a las necesidades de tu negocio.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gestión-de-proyectos&#34;&gt;Gestión de Proyectos&lt;/h2&gt;&#xA;&lt;p&gt;Coordinamos todas las etapas del proyecto para garantizar un resultado exitoso.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Servicios</title>
-      <link>http://localhost:1313/servicios/serviciosdetalles/</link>
-      <pubDate>Mon, 24 Feb 2025 13:24:20 -0300</pubDate>
-      <guid>http://localhost:1313/servicios/serviciosdetalles/</guid>
-      <description>&lt;h2 id=&#34;facility--property-manager&#34;&gt;Facility &amp;amp; Property Manager&lt;/h2&gt;&#xA;&lt;p&gt;Uno de los aspectos más importantes del Facility Management es la capacidad de poder reducir los costes operativos sin renunciar a incrementar la calidad de los servicios entregados. Por esto desde HASSCORP lo sectorizamos en 3 grupos (Gestión – Reingeniería de procesos – Auditorias), con especialistas en cada área. Podemos iniciar una gestión base cero, realizar una reingenieria ya en funcionamiento y/o auditar los servicios actuales. Todo inicia con fijar los niveles de servicios (SLA) con una metodología propia para identificar e implantar diferentes vías para ahorrar e incrementar la productividad mediante el Facility Management y con esto aumentar la vida utilid de cada activo, como mejorar el confort de tus colaboradores.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Limpieza</title>
-      <link>http://localhost:1313/servicios/limpieza/</link>
-      <pubDate>Mon, 24 Feb 2025 13:24:19 -0300</pubDate>
-      <guid>http://localhost:1313/servicios/limpieza/</guid>
-      <description>&lt;h2 id=&#34;servicios-de-limpieza&#34;&gt;Servicios de Limpieza&lt;/h2&gt;&#xA;&lt;p&gt;Ofrecemos una amplia gama de servicios de limpieza para satisfacer tus necesidades:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Limpieza de oficinas&lt;/li&gt;&#xA;&lt;li&gt;Limpieza de hogares&lt;/li&gt;&#xA;&lt;li&gt;Limpieza de vidrios&lt;/li&gt;&#xA;&lt;li&gt;Limpieza de alfombras&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Para más información, contáctanos.&lt;/p&gt;&#xA;&#xA;  &#xA;    &lt;a href=&#34;http://localhost:1313/contact&#34; class=&#34;btn btn-primary mb-3&#34; style=&#34;float: right;&#34;&gt;&#xA;      Hablemos...&#xA;    &lt;/a&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://www.hasscorp.com/</link><description>Recent content on</description><generator>Hugo</generator><language>es-ar</language><lastBuildDate>Thu, 12 Feb 2026 10:00:00 -0300</lastBuildDate><atom:link href="https://www.hasscorp.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Trabajos en Electricidad</title><link>https://www.hasscorp.com/blog/electricidad/</link><pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate><guid>https://www.hasscorp.com/blog/electricidad/</guid><description>&lt;p&gt;Hasscorp ejecuta instalaciones eléctricas y trabajos de iluminación para espacios comerciales, oficinas y edificios en toda la Ciudad Autónoma de Buenos Aires. Desde la renovación de tableros eléctricos hasta la implementación de sistemas de iluminación LED de bajo consumo, nuestros técnicos matriculados garantizan trabajos seguros y conformes a la normativa vigente.&lt;/p&gt;
+&lt;p&gt;Entre los trabajos más frecuentes se encuentran: reemplazo y ampliación de tableros, instalación de circuitos independientes para equipos industriales, adecuación de bocas y cableado para modernización de espacios, y relevamientos eléctricos preventivos para detectar fallas antes de que se conviertan en un problema mayor.&lt;/p&gt;</description></item><item><title>Trabajos en Limpieza y Remodelación</title><link>https://www.hasscorp.com/blog/remodelacion/</link><pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate><guid>https://www.hasscorp.com/blog/remodelacion/</guid><description>&lt;p&gt;La imagen de un espacio de trabajo refleja la identidad de tu empresa. En Hasscorp ofrecemos servicios de limpieza profesional, pintura y remodelación de interiores pensados para mantener y renovar oficinas, locales y edificios corporativos con el mínimo impacto en la operación diaria.&lt;/p&gt;
+&lt;p&gt;Desde limpiezas periódicas y post-construcción, hasta transformaciones completas de espacios: pintura de paredes y cielorrasos, reacondicionamiento de pisos, mejoras edilicias y renovación general de ambientes. Todos nuestros trabajos de remodelación incluyen una etapa de relevamiento y diagnóstico previo para asegurar que el resultado final sea exactamente lo que el cliente necesita.&lt;/p&gt;</description></item><item><title>Trabajos en Mantenimiento</title><link>https://www.hasscorp.com/blog/mantenimiento-12-02-26/</link><pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate><guid>https://www.hasscorp.com/blog/mantenimiento-12-02-26/</guid><description>&lt;p&gt;El mantenimiento preventivo es la inversión que evita gastos inesperados. En Hasscorp desarrollamos planes de mantenimiento edilicio a medida que contemplan la revisión periódica de fachadas, sistemas de bombeo, instalaciones generales y equipos de la instalación.&lt;/p&gt;
+&lt;p&gt;Documentamos cada intervención y generamos informes de estado para que el administrador o responsable del edificio tenga siempre visibilidad sobre el estado real de sus instalaciones. El resultado: menos fallas imprevistas, mayor vida útil de los equipos y una operación más eficiente y económica.&lt;/p&gt;</description></item><item><title>Trabajos en Plomería</title><link>https://www.hasscorp.com/blog/plomeria/</link><pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate><guid>https://www.hasscorp.com/blog/plomeria/</guid><description>&lt;p&gt;Los problemas de plomería en edificios y oficinas pueden escalar rápidamente si no se atienden a tiempo. En Hasscorp contamos con técnicos especializados en diagnóstico y resolución de filtraciones, humedad en paredes y techos, roturas de cañerías y problemas en tanques de agua y bombas.&lt;/p&gt;
+&lt;p&gt;Trabajamos con materiales de primera calidad y aplicamos soluciones definitivas, no parches temporales. Nuestro servicio de mantenimiento preventivo de instalaciones hidráulicas permite detectar problemas antes de que generen daños estructurales o interrupciones en la operación de tu empresa.&lt;/p&gt;</description></item><item><title>Trabajos en Prevención</title><link>https://www.hasscorp.com/blog/prevencion/</link><pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate><guid>https://www.hasscorp.com/blog/prevencion/</guid><description>&lt;p&gt;La prevención es uno de los pilares del Facility Management. En Hasscorp gestionamos dos servicios clave para mantener tu espacio seguro y en regla: el control de plagas y el mantenimiento de sistemas contra incendio.&lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;control de plagas&lt;/strong&gt; se realiza con productos certificados, aplicados por personal capacitado y habilitado, con mínima interrupción de la operación normal de tu empresa. El &lt;strong&gt;mantenimiento de matafuegos&lt;/strong&gt; incluye recarga, prueba hidráulica y reemplazo según las normativas del GCBA y la legislación vigente, garantizando que tu empresa esté preparada ante cualquier emergencia y evitando sanciones en inspecciones.&lt;/p&gt;</description></item><item><title>Trabajos de Climatización</title><link>https://www.hasscorp.com/blog/climatizacion/</link><pubDate>Mon, 02 Feb 2026 10:00:00 -0300</pubDate><guid>https://www.hasscorp.com/blog/climatizacion/</guid><description>&lt;p&gt;Nuestro equipo de técnicos especializados llevó a cabo trabajos de climatización para mantener el confort y la eficiencia energética de las instalaciones. Realizamos instalación, puesta en marcha y mantenimiento preventivo de sistemas de aire acondicionado y calderas.&lt;/p&gt;
+&lt;p&gt;Cada intervención contempla la revisión del estado general del equipo, limpieza de filtros, control de refrigerante, verificación de circuitos eléctricos y ajuste de parámetros para garantizar el máximo rendimiento. Un sistema de climatización en óptimas condiciones no solo mejora el bienestar de los ocupantes, sino que también reduce el consumo energético hasta un 30%.&lt;/p&gt;</description></item><item><title>Mantenimiento</title><link>https://www.hasscorp.com/servicios/mantenimiento/</link><pubDate>Mon, 24 Feb 2025 13:24:20 -0300</pubDate><guid>https://www.hasscorp.com/servicios/mantenimiento/</guid><description>&lt;h2 id="mantenimiento-integral"&gt;Mantenimiento Integral&lt;/h2&gt;
+&lt;p&gt;Damos servicios de mantenimiento para garantizar el óptimo funcionamiento de tus instalaciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mantenimiento eléctrico&lt;/li&gt;
+&lt;li&gt;Mantenimiento de sistemas de climatización&lt;/li&gt;
+&lt;li&gt;Mantenimiento de grupos electrógenos&lt;/li&gt;
+&lt;li&gt;Mantenimiento de sistemas de seguridad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Contamos con un equipo de técnicos especializados para atender todas tus necesidades.&lt;/p&gt;
+&lt;h3 id="mantenimiento-preventivo"&gt;Mantenimiento Preventivo&lt;/h3&gt;
+&lt;p&gt;Realizamos revisiones periódicas para evitar averías y prolongar la vida útil de tus equipos.&lt;/p&gt;
+&lt;h3 id="mantenimiento-correctivo"&gt;Mantenimiento Correctivo&lt;/h3&gt;
+&lt;p&gt;Atendemos averías de manera rápida y eficiente para minimizar el tiempo de inactividad.&lt;/p&gt;</description></item><item><title>Obras</title><link>https://www.hasscorp.com/servicios/obras/</link><pubDate>Mon, 24 Feb 2025 13:24:20 -0300</pubDate><guid>https://www.hasscorp.com/servicios/obras/</guid><description>&lt;h1 id="obras-y-reformas-"&gt;Obras y Reformas &amp;mdash;&lt;/h1&gt;
+&lt;p&gt;Nos encargamos de la planificación y ejecución de proyectos de construcción y reforma:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diseño de espacios comerciales y oficinas&lt;/li&gt;
+&lt;li&gt;Construcción de nuevas instalaciones&lt;/li&gt;
+&lt;li&gt;Reformas integrales&lt;/li&gt;
+&lt;li&gt;Gestión de proyectos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trabajamos con materiales de alta calidad y cumplimos con los plazos acordados.&lt;/p&gt;
+&lt;h2 id="diseño-de-espacios"&gt;Diseño de Espacios&lt;/h2&gt;
+&lt;p&gt;Creamos espacios funcionales y estéticos que se adaptan a las necesidades de tu negocio.&lt;/p&gt;
+&lt;h2 id="gestión-de-proyectos"&gt;Gestión de Proyectos&lt;/h2&gt;
+&lt;p&gt;Coordinamos todas las etapas del proyecto para garantizar un resultado exitoso.&lt;/p&gt;</description></item><item><title>Servicios</title><link>https://www.hasscorp.com/servicios/serviciosdetalles/</link><pubDate>Mon, 24 Feb 2025 13:24:20 -0300</pubDate><guid>https://www.hasscorp.com/servicios/serviciosdetalles/</guid><description>&lt;h2 id="facility--property-manager"&gt;Facility &amp;amp; Property Manager&lt;/h2&gt;
+&lt;p&gt;Uno de los aspectos más importantes del Facility Management es la capacidad de poder reducir los costes operativos sin renunciar a incrementar la calidad de los servicios entregados. Por esto desde HASSCORP lo sectorizamos en 3 grupos (Gestión – Reingeniería de procesos – Auditorias), con especialistas en cada área. Podemos iniciar una gestión base cero, realizar una reingenieria ya en funcionamiento y/o auditar los servicios actuales. Todo inicia con fijar los niveles de servicios (SLA) con una metodología propia para identificar e implantar diferentes vías para ahorrar e incrementar la productividad mediante el Facility Management y con esto aumentar la vida utilid de cada activo, como mejorar el confort de tus colaboradores.&lt;/p&gt;</description></item><item><title>Limpieza</title><link>https://www.hasscorp.com/servicios/limpieza/</link><pubDate>Mon, 24 Feb 2025 13:24:19 -0300</pubDate><guid>https://www.hasscorp.com/servicios/limpieza/</guid><description>&lt;h2 id="servicios-de-limpieza"&gt;Servicios de Limpieza&lt;/h2&gt;
+&lt;p&gt;Ofrecemos una amplia gama de servicios de limpieza para satisfacer tus necesidades:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Limpieza de oficinas&lt;/li&gt;
+&lt;li&gt;Limpieza de hogares&lt;/li&gt;
+&lt;li&gt;Limpieza de vidrios&lt;/li&gt;
+&lt;li&gt;Limpieza de alfombras&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para más información, contáctanos.&lt;/p&gt;
+
+ 
+ &lt;a href="https://www.hasscorp.com/contact" class="btn btn-primary mb-3" style="float: right;"&gt;
+ Hablemos...
+ &lt;/a&gt;</description></item></channel></rss>

@@ -1,8 +1,8 @@
 ---
 enable: true
 testimonial:
-  - author: "TechCrunch"
-    testimonialDetails: "Behind every great product, there is a great mind"
-  - author: "Yarnban"
-    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "Francisco Marasco, CEO FlyDevs"
+    testimonialDetails: "Realizamos la obra de nuestras oficinas con ellos. Cumplieron todas nuestras expectativas y actualmente nos brindan un servicio de mantenimiento óptimo."
+  - author: "Administración Edificio Patrón"
+    testimonialDetails: "Hasscorp resuelve todo con rapidez y profesionalismo. Tener un solo proveedor para mantenimiento, limpieza y emergencias nos simplificó enormemente la gestión."
 ---
