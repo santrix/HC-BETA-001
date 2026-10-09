@@ -1,12 +1,13 @@
 ---
 title: "Sobre Nosotros..."
 date: 2022-01-08T10:41:03+06:00
+description: "Conocé al equipo de Hasscorp: empresa de Facility Management en Buenos Aires con foco en calidad, honestidad y compromiso con cada cliente."
 subTitle: >
         ¿Quiénes somos? ¿Qué nos apasiona?
 sliderImage:
-  - image: "images/stor/story-01.jpg"
-  - image: "images/stor/story-01.jpg"
-  - image: "images/stor/story-01.jpg"
+  - image: "images/about/exib-01.jpg"
+  - image: "images/about/exib-02.jpg"
+  - image: "images/about/exib-03.jpg"
 ---
 ## Una filosofía empresaria instalada en el día a día de la gestión 
 Trabajamos con pasión en todo lo que nos comprometemos a

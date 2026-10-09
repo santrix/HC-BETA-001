@@ -1,21 +1,36 @@
 ---
 enable: true
-title: "Frequently Asked Questions"
+title: "Preguntas Frecuentes"
 faq:
-  - question: "Q. How do I apply?"
+  - question: "¿Qué es el Facility Management y para qué sirve?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Where can I find out about funding?"
+            El Facility Management (FM) es la gestión integral de los servicios de soporte de una empresa:
+            mantenimiento, limpieza, seguridad, climatización, electricidad y más. Su objetivo es asegurar
+            que los espacios de trabajo funcionen de manera eficiente, segura y al menor costo posible,
+            permitiéndote enfocarte en el negocio principal.
+  - question: "¿Atienden empresas en todo Buenos Aires o solo en CABA?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How can I make a change to my application?"
+            Trabajamos en toda la Ciudad Autónoma de Buenos Aires (CABA) y el Gran Buenos Aires (GBA).
+            Para proyectos puntuales fuera de esa área, evaluamos el caso y te damos una respuesta
+            personalizada. ¡Consultanos sin compromiso!
+  - question: "¿Cómo se contrata un servicio de mantenimiento con Hasscorp?"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "Q. What are entry requirements?"
+            El proceso es simple: nos contactás por formulario, email o WhatsApp, coordinamos una visita
+            de relevamiento sin costo, y en un plazo de 48–72 horas te enviamos una propuesta a medida.
+            No hay contratos de permanencia forzosa en los servicios mensuales.
+  - question: "¿Hacen trabajos puntuales o solo contratos de mantenimiento mensual?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How do I get a reference?"
+            ¡Las dos cosas! Podemos intervenir en un trabajo específico (una reparación, una obra puntual,
+            una limpieza post-construcción) o establecer un servicio de mantenimiento preventivo y correctivo
+            mensual según las necesidades de tu empresa.
+  - question: "¿Qué tipo de empresas son sus clientes?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+            Trabajamos con una amplia variedad de clientes: estudios jurídicos, empresas tecnológicas,
+            clínicas, administradoras de consorcios, retail, oficinas corporativas y más.
+            Adaptamos nuestros servicios al tamaño y rubro de cada organización.
+  - question: "¿Los técnicos están certificados y asegurados?"
+    answer: >
+            Sí. Todo nuestro personal cuenta con los seguros de ley (ART) y capacitaciones vigentes
+            según la normativa argentina. Trabajamos con protocolos de seguridad e higiene en cada
+            intervención, y podemos proveer documentación para consorcios y administradores que la requieran.
 ---

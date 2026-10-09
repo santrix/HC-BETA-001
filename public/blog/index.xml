@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nuestro Blog on </title>
-    <link>https://www.hasscorp.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Nuestro Blog on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>es-ar</language>
     <lastBuildDate>Thu, 12 Feb 2026 10:00:00 -0300</lastBuildDate>
-    <atom:link href="https://www.hasscorp.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trabajos en electricidad</title>
-      <link>https://www.hasscorp.com/blog/electricidad/</link>
+      <title>Trabajos en Electricidad</title>
+      <link>http://localhost:1313/blog/electricidad/</link>
       <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>https://www.hasscorp.com/blog/electricidad/</guid>
-      <description>&lt;p&gt;Nuestros trabajos en iluminación y electricidad&#xA;&#xA;&#xA;&lt;div class=&#34;gallery-carousel gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/electricidad/Iluminaci%c3%b3n.png&#34; title=&#34;Iluminación.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/electricidad/Iluminaci%c3%b3n.png&#34; alt=&#34;Iluminación.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/electricidad/Instalaci%c3%b3n%20electrica.png&#34; title=&#34;Instalación electrica.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/electricidad/Instalaci%c3%b3n%20electrica.png&#34; alt=&#34;Instalación electrica.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;&lt;/div&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/electricidad/</guid>
+      <description>&lt;p&gt;Hasscorp ejecuta instalaciones eléctricas y trabajos de iluminación para espacios comerciales, oficinas y edificios en toda la Ciudad Autónoma de Buenos Aires. Desde la renovación de tableros eléctricos hasta la implementación de sistemas de iluminación LED de bajo consumo, nuestros técnicos matriculados garantizan trabajos seguros y conformes a la normativa vigente.&lt;/p&gt;&#xA;&lt;p&gt;Entre los trabajos más frecuentes se encuentran: reemplazo y ampliación de tableros, instalación de circuitos independientes para equipos industriales, adecuación de bocas y cableado para modernización de espacios, y relevamientos eléctricos preventivos para detectar fallas antes de que se conviertan en un problema mayor.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trabajos en limpieza y remodelacion</title>
-      <link>https://www.hasscorp.com/blog/remodelacion/</link>
+      <title>Trabajos en Limpieza y Remodelación</title>
+      <link>http://localhost:1313/blog/remodelacion/</link>
       <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>https://www.hasscorp.com/blog/remodelacion/</guid>
-      <description>&lt;p&gt;Nuestros trabajos en limpieza y remodelacion de espacios&#xA;&#xA;&#xA;&lt;div class=&#34;gallery-carousel gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/remodelacion/Pintura.png&#34; title=&#34;Pintura.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/remodelacion/Pintura.png&#34; alt=&#34;Pintura.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/remodelacion/Post-Construcci%c3%b3n.png&#34; title=&#34;Post-Construcción.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/remodelacion/Post-Construcci%c3%b3n.png&#34; alt=&#34;Post-Construcción.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/remodelacion/Servicio%20de%20limpieza.png&#34; title=&#34;Servicio de limpieza.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/remodelacion/Servicio%20de%20limpieza.png&#34; alt=&#34;Servicio de limpieza.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/remodelacion/Transformaci%c3%b3n%20de%20espacios.png&#34; title=&#34;Transformación de espacios.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/remodelacion/Transformaci%c3%b3n%20de%20espacios.png&#34; alt=&#34;Transformación de espacios.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;&lt;/div&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/remodelacion/</guid>
+      <description>&lt;p&gt;La imagen de un espacio de trabajo refleja la identidad de tu empresa. En Hasscorp ofrecemos servicios de limpieza profesional, pintura y remodelación de interiores pensados para mantener y renovar oficinas, locales y edificios corporativos con el mínimo impacto en la operación diaria.&lt;/p&gt;&#xA;&lt;p&gt;Desde limpiezas periódicas y post-construcción, hasta transformaciones completas de espacios: pintura de paredes y cielorrasos, reacondicionamiento de pisos, mejoras edilicias y renovación general de ambientes. Todos nuestros trabajos de remodelación incluyen una etapa de relevamiento y diagnóstico previo para asegurar que el resultado final sea exactamente lo que el cliente necesita.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trabajos en mantenimiento</title>
-      <link>https://www.hasscorp.com/blog/mantenimiento-12-02-26/</link>
+      <title>Trabajos en Mantenimiento</title>
+      <link>http://localhost:1313/blog/mantenimiento-12-02-26/</link>
       <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>https://www.hasscorp.com/blog/mantenimiento-12-02-26/</guid>
-      <description>&lt;p&gt;Nuestros trabajos en mantenimiento&#xA;&#xA;&#xA;&lt;div class=&#34;gallery-carousel gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/mantenimiento-12-02-26/Fachadas.png&#34; title=&#34;Fachadas.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/mantenimiento-12-02-26/Fachadas.png&#34; alt=&#34;Fachadas.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/mantenimiento-12-02-26/Mantenimiento%20edilicio.png&#34; title=&#34;Mantenimiento edilicio.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/mantenimiento-12-02-26/Mantenimiento%20edilicio.png&#34; alt=&#34;Mantenimiento edilicio.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/mantenimiento-12-02-26/Mantenimientos%20de%20bombas.png&#34; title=&#34;Mantenimientos de bombas.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/mantenimiento-12-02-26/Mantenimientos%20de%20bombas.png&#34; alt=&#34;Mantenimientos de bombas.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;&lt;/div&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/mantenimiento-12-02-26/</guid>
+      <description>&lt;p&gt;El mantenimiento preventivo es la inversión que evita gastos inesperados. En Hasscorp desarrollamos planes de mantenimiento edilicio a medida que contemplan la revisión periódica de fachadas, sistemas de bombeo, instalaciones generales y equipos de la instalación.&lt;/p&gt;&#xA;&lt;p&gt;Documentamos cada intervención y generamos informes de estado para que el administrador o responsable del edificio tenga siempre visibilidad sobre el estado real de sus instalaciones. El resultado: menos fallas imprevistas, mayor vida útil de los equipos y una operación más eficiente y económica.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trabajos en plomeria</title>
-      <link>https://www.hasscorp.com/blog/plomeria/</link>
+      <title>Trabajos en Plomería</title>
+      <link>http://localhost:1313/blog/plomeria/</link>
       <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>https://www.hasscorp.com/blog/plomeria/</guid>
-      <description>&lt;p&gt;Nuestros trabajos en plomeria&#xA;&#xA;&#xA;&lt;div class=&#34;gallery-carousel gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/plomeria/Humedad%20y%20filtraciones.png&#34; title=&#34;Humedad y filtraciones.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/plomeria/Humedad%20y%20filtraciones.png&#34; alt=&#34;Humedad y filtraciones.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/plomeria/Soluciones%20hidraulicas.png&#34; title=&#34;Soluciones hidraulicas.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/plomeria/Soluciones%20hidraulicas.png&#34; alt=&#34;Soluciones hidraulicas.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/plomeria/Tanques%20de%20agua.png&#34; title=&#34;Tanques de agua.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/plomeria/Tanques%20de%20agua.png&#34; alt=&#34;Tanques de agua.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;&lt;/div&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/plomeria/</guid>
+      <description>&lt;p&gt;Los problemas de plomería en edificios y oficinas pueden escalar rápidamente si no se atienden a tiempo. En Hasscorp contamos con técnicos especializados en diagnóstico y resolución de filtraciones, humedad en paredes y techos, roturas de cañerías y problemas en tanques de agua y bombas.&lt;/p&gt;&#xA;&lt;p&gt;Trabajamos con materiales de primera calidad y aplicamos soluciones definitivas, no parches temporales. Nuestro servicio de mantenimiento preventivo de instalaciones hidráulicas permite detectar problemas antes de que generen daños estructurales o interrupciones en la operación de tu empresa.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trabajos en prevención</title>
-      <link>https://www.hasscorp.com/blog/prevencion/</link>
+      <title>Trabajos en Prevención</title>
+      <link>http://localhost:1313/blog/prevencion/</link>
       <pubDate>Thu, 12 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>https://www.hasscorp.com/blog/prevencion/</guid>
-      <description>&lt;p&gt;Nuestros trabajos en prevención&#xA;&#xA;&#xA;&lt;div class=&#34;gallery-carousel gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/prevencion/Control%20de%20plagas.png&#34; title=&#34;Control de plagas.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/prevencion/Control%20de%20plagas.png&#34; alt=&#34;Control de plagas.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/prevencion/Mantenimiento%20de%20matafuegos.png&#34; title=&#34;Mantenimiento de matafuegos.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/prevencion/Mantenimiento%20de%20matafuegos.png&#34; alt=&#34;Mantenimiento de matafuegos.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;&lt;/div&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/prevencion/</guid>
+      <description>&lt;p&gt;La prevención es uno de los pilares del Facility Management. En Hasscorp gestionamos dos servicios clave para mantener tu espacio seguro y en regla: el control de plagas y el mantenimiento de sistemas contra incendio.&lt;/p&gt;&#xA;&lt;p&gt;El &lt;strong&gt;control de plagas&lt;/strong&gt; se realiza con productos certificados, aplicados por personal capacitado y habilitado, con mínima interrupción de la operación normal de tu empresa. El &lt;strong&gt;mantenimiento de matafuegos&lt;/strong&gt; incluye recarga, prueba hidráulica y reemplazo según las normativas del GCBA y la legislación vigente, garantizando que tu empresa esté preparada ante cualquier emergencia y evitando sanciones en inspecciones.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Trabajos de Climatizacion</title>
-      <link>https://www.hasscorp.com/blog/climatizacion/</link>
+      <title>Trabajos de Climatización</title>
+      <link>http://localhost:1313/blog/climatizacion/</link>
       <pubDate>Mon, 02 Feb 2026 10:00:00 -0300</pubDate>
-      <guid>https://www.hasscorp.com/blog/climatizacion/</guid>
-      <description>&lt;p&gt;Nuestros trabajos de climatización&#xA;&#xA;&#xA;&lt;div class=&#34;gallery-carousel gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/Climatizacion/Aires%20acondicionados.png&#34; title=&#34;Aires acondicionados.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/Climatizacion/Aires%20acondicionados.png&#34; alt=&#34;Aires acondicionados.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;a href=&#34;https://www.hasscorp.com/images/Climatizacion/Calderas.png&#34; title=&#34;Calderas.png&#34;&gt;&#xA;            &lt;img src=&#34;https://www.hasscorp.com/images/Climatizacion/Calderas.png&#34; alt=&#34;Calderas.png&#34; class=&#34;img-fluid&#34;&gt;&#xA;        &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &#xA;&lt;/div&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/climatizacion/</guid>
+      <description>&lt;p&gt;Nuestro equipo de técnicos especializados llevó a cabo trabajos de climatización para mantener el confort y la eficiencia energética de las instalaciones. Realizamos instalación, puesta en marcha y mantenimiento preventivo de sistemas de aire acondicionado y calderas.&lt;/p&gt;&#xA;&lt;p&gt;Cada intervención contempla la revisión del estado general del equipo, limpieza de filtros, control de refrigerante, verificación de circuitos eléctricos y ajuste de parámetros para garantizar el máximo rendimiento. Un sistema de climatización en óptimas condiciones no solo mejora el bienestar de los ocupantes, sino que también reduce el consumo energético hasta un 30%.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
